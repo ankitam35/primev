@@ -13,7 +13,7 @@ export default function Index() {
             <div className={'main'}>
                 <div className='h-80 lg:px-48 mb-6'>
                     <div className='bg-white h-full'>
-
+                    <img class="object-cover object-center w-full h-full" src="/Images/wall.png" alt="" />
                     </div>
                 </div>
                 <AmzOrginals />
